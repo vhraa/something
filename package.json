@@ -18,7 +18,7 @@
   },
   "engines": {
     "node": "14.x",
-    "npm": "7.x"
+    "npm": "8.x"
   },
   "scripts": {
     "semantic-release": "semantic-release"
